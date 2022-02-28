@@ -1,0 +1,35 @@
+id: PB7C468B7
+initial_creation_type: input
+source_metadata:
+  title: Jetsün Drakpa Gyaltsen Series
+  language: es
+  description: 'Texts by the great Sakya patriarch Jetsün Drakpa Gyaltsen (rje btsun
+    grags pa rgyal mtshan, 1147–1216):'
+  volume:
+    4bf8699f04ef426ea69c14d41ce46540:
+      title: On Jetsün Drakpa Gyaltsen’s How to Take the Practice to Heart
+      parent: Commentaries
+    e415d7ed682242c18f1323645d20b519:
+      title: 'Wisdom''s Bestowal: A Way to Accumulate the Recitation of the Tantra
+        ''Chanting the Names of Mañjuśrī'' (Mañjuśrī Nāma Saṃgīti)'
+      parent: Mañjuśrī
+    a102563f98b04997b0ac2bf7a938a4a2:
+      title: Parting from the Four Attachments
+      parent: Mind Training
+    59b9e3841ab049b28c972dda6c4aa058:
+      title: Short Maṇḍala Offering
+      parent: Offering
+    fada117f054d4e578dcb25781c475b39:
+      title: How to Take the Practice to Heart
+      parent: Songs
+    aee3099c39284d9887557dce1fd46c5e:
+      title: An Outline of The Praise to Tārā with Twenty-One Verses of Homage
+      parent: Tārā
+    0ca9f707f0de4016980f462c771d0d1d:
+      title: 'Brilliant Rays of Light: A Commentary on the Praise to Tārā'
+      parent: Tārā
+    fa00cf14a01f4612abdb0ce03c700ced:
+      title: Prayer to Jetsün Tārā
+      parent: Tārā
+created_at: '2022-03-01T00:01:07.268055'
+last_modified_at: '2022-03-01T00:01:07.268057'
